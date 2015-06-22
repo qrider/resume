@@ -6,7 +6,7 @@ var md2resume = require('markdown-resume');
 /* GET home page. */
 router.get('/', function(req, res, next) {
 
-    md2resume.generate('resume.md', function(err, out) {
+    md2resume.generate('RESUME.md', function(err, out) {
         res.setHeader('Content-Type', 'text/html');
 
         var $ = cheerio.load(out);

@@ -19,7 +19,7 @@
 - Yeoman
 - Git / SVN
 - TeamCity
-- Bash
+- Bash (basic commands)
 - Content Delivery / CDN
 - PHP / Apache / MySql / Magento
 - OpenF2
@@ -83,8 +83,8 @@
 
 * **Content Delivery**
 	For off-shore clients where a CDN is used I researched and found ways to optimize the delivery of both assets and data. Also used Ilya Grigorik's <a target=_blank href=https://www.youtube.com/watch?v=Il4swGfTOSM >Breaking the 1000ms Time to Mobile Barrier</a> as a model for delivering content to mobile devices.
-* **Node.js**
-    At various points in my career I have explored Node.js and how it can benefit my day to day development. From commandline utilities to Express to Yeoman to Mean.js and Mean.io and finally to my resume which was written in markdown and served via a markdown to HTML node module and Express. 
+* **Yeoman and Code Generation**
+    Me and a few colleagues created a code generator using Yeoman as a DWYWD project at Markit. While we did not achieve our ultimate goal we were able to demonstrate some important pieces of our POC. THe project also demonstrated the power of code generators and how quickly they speed up dev time.
 
 <!--
 * **Hoopologie.com**

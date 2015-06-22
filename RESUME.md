@@ -1,6 +1,7 @@
 # Quentin Rider
-## Development Manager / Active Developer
+## Development Manager / Senior Developer
 
+> [resume-qdrider.rhcloud.com](http://resume-qdrider.rhcloud.com)
 > [qdrider@gmail.com](mailto:qdrider@gmail.com)
 > (720) 989-4869
 
